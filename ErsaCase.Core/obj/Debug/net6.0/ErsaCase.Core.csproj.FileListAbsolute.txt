@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\ErsaCase.Api\ErsaCase.Core\bin\Debug\net6.0\ErsaCase.Core.deps.json
+C:\Users\user\source\repos\ErsaCase.Api\ErsaCase.Core\bin\Debug\net6.0\ErsaCase.Core.dll
+C:\Users\user\source\repos\ErsaCase.Api\ErsaCase.Core\bin\Debug\net6.0\ErsaCase.Core.pdb
+C:\Users\user\source\repos\ErsaCase.Api\ErsaCase.Core\obj\Debug\net6.0\ErsaCase.Core.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ErsaCase.Api\ErsaCase.Core\obj\Debug\net6.0\ErsaCase.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ErsaCase.Api\ErsaCase.Core\obj\Debug\net6.0\ErsaCase.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ErsaCase.Api\ErsaCase.Core\obj\Debug\net6.0\ErsaCase.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\ErsaCase.Api\ErsaCase.Core\obj\Debug\net6.0\ErsaCase.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ErsaCase.Api\ErsaCase.Core\obj\Debug\net6.0\ErsaCase.Core.dll
+C:\Users\user\source\repos\ErsaCase.Api\ErsaCase.Core\obj\Debug\net6.0\refint\ErsaCase.Core.dll
+C:\Users\user\source\repos\ErsaCase.Api\ErsaCase.Core\obj\Debug\net6.0\ErsaCase.Core.pdb
+C:\Users\user\source\repos\ErsaCase.Api\ErsaCase.Core\obj\Debug\net6.0\ref\ErsaCase.Core.dll
